@@ -1,2 +1,2 @@
 # To run:
-Open index.html
+Clone the repository and open index.html
