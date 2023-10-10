@@ -1,4 +1,4 @@
 # Project
 
-To run:
+# To run:
 Open index.html
