@@ -62,7 +62,7 @@ h1 {
     right: 0;
     z-index: 300000;
     border: white 1px;
-    color: #f3c623;
+    color: #000000;
     padding: 75px 26px;
     font-size: 22px;
     margin: auto;
@@ -118,7 +118,7 @@ h1 {
     margin-right: .5rem;
     width: 46px;
     height: 26px;
-    background-color: #f3c623;
+    background-color: #000000;
     /*border-radius: 23px;*/
     vertical-align: text-bottom;
     transition: all 0.3s linear;
